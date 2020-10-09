@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mad Level 1 Task 2</string>
+    <string name="Title">Conjuction (AND)</string>
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="Question">A ^ B</string>
+    <string name="True">T</string>
+    <string name="False">F</string>
+    <string name="btnSumbit">Submit</string>
+    <string name="hint">T/F</string>
+    <string name="CorrectAnswer">TFFF</string>
+    <string name="ToastMessageIncorrect">Incorrect!</string>
+    <string name="ToastMessageCorrect">correct!</string>
+</resources>
